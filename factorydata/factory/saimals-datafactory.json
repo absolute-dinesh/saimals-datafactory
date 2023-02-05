@@ -1,0 +1,9 @@
+{
+	"name": "saimals-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddbecf26-63ff-4371-be07-7e6d018ddb39",
+		"tenantId": "3adffd70-6700-4559-a087-eb190bf3a9e1"
+	}
+}
